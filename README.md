@@ -1,10 +1,4 @@
-# OneExcel
-
-[![Build Status](https://travis-ci.org/imTigger/OneExcel.svg?branch=master)](https://travis-ci.org/imTigger/OneExcel)
-[![Latest Stable Version](https://poser.pugx.org/imtigger/oneexcel/v/stable)](https://packagist.org/packages/imtigger/oneexcel)
-[![Latest Unstable Version](https://poser.pugx.org/imtigger/oneexcel/v/unstable)](https://packagist.org/packages/imtigger/oneexcel)
-[![Total Downloads](https://poser.pugx.org/imtigger/oneexcel/downloads)](https://packagist.org/packages/imtigger/oneexcel)
-[![License](https://poser.pugx.org/imtigger/oneexcel/license)](https://packagist.org/packages/imtigger/oneexcel)
+# Import & Export XLSX
 
 PHP Excel read/write abstraction layer, support [PhpSpreadSheet](https://github.com/PHPOffice/PhpSpreadSheet), [LibXL](https://github.com/iliaal/php_excel), [Spout](https://github.com/box/spout) and PHP `fputcsv`/`fgetcsv`
 

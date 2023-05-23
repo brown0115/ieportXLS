@@ -75,14 +75,3 @@ foreach ($excel->row() as $row) {
 
 $excel->close();
 ```
-
-## Documents
-
-[Auto Driver Selection](https://github.com/imTigger/OneExcel/wiki/Auto-Writer-Driver-Selection)
-
-## Known Issues
-
-- Spout reader driver output empty rows as SINGLE column (Upstream problem?)
-- Spout do not support random read/write rows (Upstream limitation, Won't fix)
-- Spout do not support formula (Upstream limitation, Won't fix)
-- fputcsv driver ignores all ColumnType::* (File-type limitation, Won't fix)
